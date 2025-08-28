@@ -1,0 +1,8 @@
+# Backup Files Directory
+
+This directory is intended for:
+- Database dumps
+- Configuration file backups
+- Application file archives
+- SSL certificates (encrypted)
+- Environment variable files
